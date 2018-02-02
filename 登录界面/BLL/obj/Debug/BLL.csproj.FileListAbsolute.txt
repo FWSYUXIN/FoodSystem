@@ -1,0 +1,9 @@
+E:\个人项目\登录界面\BLL\bin\Debug\BLL.dll
+E:\个人项目\登录界面\BLL\bin\Debug\BLL.pdb
+E:\个人项目\登录界面\BLL\bin\Debug\DAL.dll
+E:\个人项目\登录界面\BLL\bin\Debug\Model.dll
+E:\个人项目\登录界面\BLL\bin\Debug\DAL.pdb
+E:\个人项目\登录界面\BLL\bin\Debug\Model.pdb
+E:\个人项目\登录界面\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\个人项目\登录界面\BLL\obj\Debug\BLL.dll
+E:\个人项目\登录界面\BLL\obj\Debug\BLL.pdb

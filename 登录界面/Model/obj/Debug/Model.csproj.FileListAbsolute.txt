@@ -1,0 +1,5 @@
+E:\个人项目\登录界面\Model\bin\Debug\Model.dll
+E:\个人项目\登录界面\Model\bin\Debug\Model.pdb
+E:\个人项目\登录界面\Model\obj\Debug\Model.dll
+E:\个人项目\登录界面\Model\obj\Debug\Model.pdb
+E:\个人项目\登录界面\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

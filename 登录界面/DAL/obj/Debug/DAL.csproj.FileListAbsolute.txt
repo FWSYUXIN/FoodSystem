@@ -1,0 +1,7 @@
+E:\个人项目\登录界面\DAL\bin\Debug\DAL.dll
+E:\个人项目\登录界面\DAL\bin\Debug\DAL.pdb
+E:\个人项目\登录界面\DAL\bin\Debug\Model.dll
+E:\个人项目\登录界面\DAL\bin\Debug\Model.pdb
+E:\个人项目\登录界面\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\个人项目\登录界面\DAL\obj\Debug\DAL.dll
+E:\个人项目\登录界面\DAL\obj\Debug\DAL.pdb
